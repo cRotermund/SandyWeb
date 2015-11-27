@@ -1,0 +1,3 @@
+#node module stuff, can be retrieved with an install
+**/node_modules
+**/node_modules/**
