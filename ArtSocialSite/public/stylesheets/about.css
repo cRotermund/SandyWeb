@@ -1,0 +1,11 @@
+#bioBlurb {
+	margin-top: 100px;
+}
+
+#bioBlurb .titleContainer {
+	text-align: center;
+}
+
+#bioBlurb h1 {
+	font-size: 100px;
+}
