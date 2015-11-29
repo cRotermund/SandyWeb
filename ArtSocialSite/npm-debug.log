@@ -1,0 +1,107 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files (x86)\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@2.10.1
+3 info using node@v0.12.4
+4 verbose readDependencies loading dependencies from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\package.json
+5 verbose install where, deps [ 'C:\\Users\\chad.rotermund\\Desktop\\SandyWeb\\ArtSocialSite',
+5 verbose install   [ 'body-parser',
+5 verbose install     'bootstrap',
+5 verbose install     'cookie-parser',
+5 verbose install     'debug',
+5 verbose install     'express',
+5 verbose install     'fs',
+5 verbose install     'fs.extra',
+5 verbose install     'jade',
+5 verbose install     'morgan',
+5 verbose install     'serve-favicon' ] ]
+6 verbose install where, peers [ 'C:\\Users\\chad.rotermund\\Desktop\\SandyWeb\\ArtSocialSite',
+6 verbose install   [] ]
+7 verbose installManyTop reading for lifecycle C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\package.json
+8 info preinstall ArtSocialSite@0.0.0
+9 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\body-parser\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\bootstrap\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\cookie-parser\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\debug\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\express\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\fs\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\fs.extra\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\jade\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\morgan\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\serve-favicon\package.json
+19 info package.json fs@0.0.2 fs is also the name of a node core module.
+20 info package.json fs@0.0.2 No description
+21 info package.json fs@0.0.2 No repository field.
+22 info package.json fs.extra@1.3.2 No license field.
+23 verbose readDependencies loading dependencies from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\package.json
+24 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\body-parser\package.json
+25 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\bootstrap\package.json
+26 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\cookie-parser\package.json
+27 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\debug\package.json
+28 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\express\package.json
+29 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\fs\package.json
+30 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\fs.extra\package.json
+31 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\jade\package.json
+32 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\morgan\package.json
+33 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\serve-favicon\package.json
+34 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\.bin\jade\package.json
+35 verbose targetResolver reading package data from C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite\node_modules\.bin\jade.cmd\package.json
+36 verbose already installed skipping express@~4.13.1 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+37 verbose already installed skipping fs@0.0.2 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+38 verbose already installed skipping fs.extra@^1.3.2 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+39 verbose already installed skipping jade@~1.11.0 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+40 verbose already installed skipping morgan@~1.6.1 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+41 verbose already installed skipping serve-favicon@~2.3.0 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+42 verbose already installed skipping body-parser@~1.13.2 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+43 verbose already installed skipping bootstrap@^3.3.6 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+44 verbose already installed skipping cookie-parser@~1.3.5 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+45 verbose already installed skipping debug@~2.2.0 C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+46 silly install resolved []
+47 info build C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+48 info linkStuff ArtSocialSite@0.0.0
+49 silly linkStuff ArtSocialSite@0.0.0 has C:\Users\chad.rotermund\Desktop\SandyWeb as its parent node_modules
+50 verbose linkBins ArtSocialSite@0.0.0
+51 verbose linkMans ArtSocialSite@0.0.0
+52 verbose rebuildBundles ArtSocialSite@0.0.0
+53 verbose rebuildBundles [ '.bin',
+53 verbose rebuildBundles   'body-parser',
+53 verbose rebuildBundles   'bootstrap',
+53 verbose rebuildBundles   'cookie-parser',
+53 verbose rebuildBundles   'debug',
+53 verbose rebuildBundles   'express',
+53 verbose rebuildBundles   'fs',
+53 verbose rebuildBundles   'fs.extra',
+53 verbose rebuildBundles   'jade',
+53 verbose rebuildBundles   'morgan',
+53 verbose rebuildBundles   'serve-favicon' ]
+54 info install ArtSocialSite@0.0.0
+55 info postinstall ArtSocialSite@0.0.0
+56 verbose unsafe-perm in lifecycle true
+57 info ArtSocialSite@0.0.0 Failed to exec postinstall script
+58 verbose stack Error: ArtSocialSite@0.0.0 postinstall: `node ./bin/build`
+58 verbose stack Exit status 1
+58 verbose stack     at EventEmitter.<anonymous> (C:\Program Files (x86)\nodejs\node_modules\npm\lib\utils\lifecycle.js:213:16)
+58 verbose stack     at EventEmitter.emit (events.js:110:17)
+58 verbose stack     at ChildProcess.<anonymous> (C:\Program Files (x86)\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+58 verbose stack     at ChildProcess.emit (events.js:110:17)
+58 verbose stack     at maybeClose (child_process.js:1015:16)
+58 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+59 verbose pkgid ArtSocialSite@0.0.0
+60 verbose cwd C:\Users\chad.rotermund\Desktop\SandyWeb\ArtSocialSite
+61 error Windows_NT 6.3.9600
+62 error argv "C:\\Program Files (x86)\\nodejs\\\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+63 error node v0.12.4
+64 error npm  v2.10.1
+65 error code ELIFECYCLE
+66 error ArtSocialSite@0.0.0 postinstall: `node ./bin/build`
+66 error Exit status 1
+67 error Failed at the ArtSocialSite@0.0.0 postinstall script 'node ./bin/build'.
+67 error This is most likely a problem with the ArtSocialSite package,
+67 error not with npm itself.
+67 error Tell the author that this fails on your system:
+67 error     node ./bin/build
+67 error You can get their info via:
+67 error     npm owner ls ArtSocialSite
+67 error There is likely additional logging output above.
+68 verbose exit [ 1, true ]
