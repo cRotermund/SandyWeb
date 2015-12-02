@@ -72,5 +72,21 @@ body {
   }
 }
 
-/* END NAVBAR
+/* END NAVBARz
+-------------------------------------------------- */
+
+
+/* HEADER
+-------------------------------------------------- */
+
+.infoPageHeader {
+  width: 100%;
+  height: 100px;
+}
+
+.infoPageHeader > .container > h1 {
+  font-size: 70px;
+}
+
+/* END HEADER
 -------------------------------------------------- */
