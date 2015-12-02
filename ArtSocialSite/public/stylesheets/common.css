@@ -81,7 +81,8 @@ body {
 
 .infoPageHeader {
   width: 100%;
-  height: 100px;
+  height: 400px;
+  background-image: url('../images/seamless_canvas.png');
 }
 
 .infoPageHeader > .container > h1 {
